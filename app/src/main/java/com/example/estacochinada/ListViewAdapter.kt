@@ -15,6 +15,7 @@ class ListViewAdapter(
     private val list: ArrayList<AlumnoData>
 ) : ArrayAdapter<AlumnoData>(context, layoutResourceId, list) {
 
+
     private val inflater: LayoutInflater = context.layoutInflater
 
     override fun getView(position: Int, convertView: View?, parent: ViewGroup): View {

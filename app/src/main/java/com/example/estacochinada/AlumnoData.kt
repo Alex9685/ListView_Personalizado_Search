@@ -4,4 +4,5 @@ class AlumnoData(
     val imageId: String,
     val nombreCompleto: String,
     val matricula: String
+
 )
