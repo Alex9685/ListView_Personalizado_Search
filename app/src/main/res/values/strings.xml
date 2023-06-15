@@ -1,6 +1,73 @@
 <resources>
     <string name="app_name">EstaCochinada</string>
-
+    <string-array name="array_nombres">
+        <item>MORUA ZAMUDIO ESTEFANO</item>
+        <item>CARRANZA JAUREGUI CARLOS ALBERTO</item>
+        <item>CASTRO LOPEZ MARCO ANTONIO ALARID</item>
+        <item>DURAN VALDEZ JOSHUA DANIEL</item>
+        <item>GALINDO HERNANDEZ ERNESTO DAVID</item>
+        <item>CONTRERAS CEPEDA MAXIMILIANO</item>
+        <item>GOMEZ RUELAS IVÁN ENRIQUE</item>
+        <item>CRUZ QUINTERO JESUS EDUARDO</item>
+        <item>VELARDE OVALLE DAVID ANTONIO</item>
+        <item>LAMAS ARMENTA GUSTAVO ADOLFO</item>
+        <item>RIVAS LUGO JUAN CARLOS</item>
+        <item>SALAS MENDOZA ALEJO</item>
+        <item>SERRANO TORRES CARLOS JAIR</item>
+        <item>TIRADO ROMERO JESUS TADEO</item>
+        <item>CARRILLO GARCIA JAIR</item>
+        <item>ARIAS ZATARAIN DIEGO</item>
+        <item>VALDEZ MARTINEZ PAOLA EMIRET</item>
+        <item>IBARRA FLORES SALMA YARETH</item>
+        <item>LIZARRAGA MALDONADO JUAN ANTONIO</item>
+        <item>VIERA ROMERO ANGEL ZINEDINE ANASTACIO</item>
+        <item>TEJEDA PEINADO BLAS ALBERTO</item>
+        <item>VIERA ROMERO ANGEL RONALDO ANASTACIO</item>
+        <item>ELIZALDE VARGAS XIOMARA YAMILETH</item>
+        <item>SALCIDO SARABIA JESUS ANTONIO</item>
+        <item>RODRIGUEZ SANCHEZ YENNIFER CAROLINA</item>
+        <item>FLORES PRADO MANUEL ALEXIS</item>
+        <item>AGUIRRE TOSTADO VICTOR MOISES</item>
+        <item>DOMINGUEZ SARABIA HALACH UINIC</item>
+        <item>MACIEL NUÑEZ ENZO ALEJANDRO</item>
+        <item>BARRON VARGAS JOSE ALBERTO</item>
+        <item>MARTIN IBARRA GIANCARLO</item>
+        <item>SANCHEZ OCEGUEDA LUIS ANGEL</item>
+    </string-array>
+    <string-array name="array_matriculas">
+        <item>2019030344</item>
+        <item>2020030174</item>
+        <item>2020030176</item>
+        <item>2020030181</item>
+        <item>2020030184</item>
+        <item>2020030189</item>
+        <item>2020030199</item>
+        <item>2020030212</item>
+        <item>2020030241</item>
+        <item>2020030243</item>
+        <item>2020030249</item>
+        <item>2020030264</item>
+        <item>2020030268</item>
+        <item>2020030292</item>
+        <item>2020030304</item>
+        <item>2020030306</item>
+        <item>2020030313</item>
+        <item>2020030315</item>
+        <item>2020030322</item>
+        <item>2020030325</item>
+        <item>2020030327</item>
+        <item>2020030329</item>
+        <item>2020030332</item>
+        <item>2020030333</item>
+        <item>2020030389</item>
+        <item>2020030766</item>
+        <item>2020030771</item>
+        <item>2020030777</item>
+        <item>2020030799</item>
+        <item>2020030808</item>
+        <item>2020030819</item>
+        <item>2020030865</item>
+    </string-array>
 
 
 </resources>
